@@ -1,0 +1,24 @@
+:my-title: Заглавие
+:my-subtitle: Подзаглавие
+:city-date: 2019
+= {my-title}: {my-subtitle}
+:notitle:
+:toc-start: 3
+:date: 10.05.2019
+:version: 0.0.1
+:author_name: Пантелеев Александр
+:lang: ru
+:front-cover-image: title.pdf
+:parametres_path: resources/themes/parametres
+include::{parametres_path}/parametres.adoc[lines1..34]
+
+//Далее идет заполнение документа
+include::includes/including.adoc[leveloffset=+1]
+
+== {version-doc}
+
+[cols="3,4,4,10a", options="header"]
+|===
+| {version-tab}     | {date-tab}   | {author-tab}   | {amendment-tab}
+.<| {version}     .<| {date}     .<| {author}     .<| {date}
+|===
