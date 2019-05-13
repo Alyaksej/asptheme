@@ -1,0 +1,33 @@
+:my-title: Программное обеспечение автоматизированного рабочего места оператора информационной безопасности программного комплекса «Аркан» (ПО АРМ ИБ ПК«Аркан»)
+:my-subtitle: Руководство пользователя СТРЦ.501540.001-01 РП 01
+:city-date: 2019
+= {my-title}: {my-subtitle}
+:notitle:
+:toc-start: 3
+:date: 10.05.2019
+:version: 0.0.1
+:author_name: Пантелеев Александр
+:lang: ru
+:front-cover-image: title.pdf
+:parametres_path: resources/themes/parametres
+include::{parametres_path}/parametres.adoc[lines1..34]
+
+//Далее идет заполнение документа
+include::includes/including.adoc[leveloffset=0]
+include::includes/including1.adoc[leveloffset=+1]
+include::includes/including2.adoc[leveloffset=+1]
+include::includes/including3.adoc[leveloffset=+1]
+include::includes/including4.adoc[leveloffset=+1]
+include::includes/including5.adoc[leveloffset=+1]
+include::includes/including6.adoc[leveloffset=+1]
+include::includes/including7.adoc[leveloffset=+1]
+include::includes/including8.adoc[leveloffset=+1]
+include::includes/including9.adoc[leveloffset=+1]
+
+== {version-doc}
+
+[cols="3,4,4,10a", options="header"]
+|===
+| {version-tab}     | {date-tab}   | {author-tab}   | {amendment-tab}
+.<| {version}     .<| {date}     .<| {author}     .<| Внесены изменения
+|===

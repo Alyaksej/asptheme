@@ -20,5 +20,5 @@ include::includes/including.adoc[leveloffset=+1]
 [cols="3,4,4,10a", options="header"]
 |===
 | {version-tab}     | {date-tab}   | {author-tab}   | {amendment-tab}
-.<| {version}     .<| {date}     .<| {author}     .<| {date}
+.<| {version}     .<| {date}     .<| {author}     .<| Внесены изменения
 |===
