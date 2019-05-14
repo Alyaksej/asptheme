@@ -6,7 +6,7 @@
 :toc:
 :toclevels: 4
 :toc-title: Содержание
-:preface-title: Предисловие
+:preface-title!: 
 :table-caption: Таблица
 :figure-caption: Рисунок
 :encoding: utf-8

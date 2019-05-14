@@ -1,5 +1,5 @@
-:my-title: Заглавие
-:my-subtitle: Подзаглавие
+:my-title: Техническое описание
+:my-subtitle: Линейка продуктов «Аркан»
 :city-date: 2019
 = {my-title}: {my-subtitle}
 :notitle:
@@ -10,15 +10,16 @@
 :lang: ru
 :front-cover-image: title.pdf
 :parametres_path: resources/themes/parametres
-include::{parametres_path}/parametres.adoc[lines1..34]
+include::{parametres_path}/parametres.adoc[lines=1..34]
+include::{parametres_path}/author.adoc[]
 
 //Далее идет заполнение документа
-include::includes/including.adoc[leveloffset=+1]
+include::includes/including1.adoc[leveloffset=0]
 
 == {version-doc}
 
 [cols="3,4,4,10a", options="header"]
 |===
 | {version-tab}     | {date-tab}   | {author-tab}   | {amendment-tab}
-.<| {version}     .<| {date}     .<| {author}     .<| Внесены изменения
+.<| {version}     .<| {date}     .<| {author}     .<| {date}
 |===
