@@ -1,48 +1,27 @@
 
-[cols="1",grid=none, frame=none]
+[cols="2,3,2",grid=none, frame=none]
 |====
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^| {zwsp}
-^|*{my-title}*
-^|*{my-subtitle}*
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^|
-^| (C) ООО «АСП Лабс»
-^| Тел. +7 (499) 398 00 21
-^| http://www.asplabs.ru
-^| Дата редакции: май 2019 года
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+|| {zwsp} |
+| .10+^| *{my-title}*  |||||||||||||||||||
+| .10+^| {my-subtitle} |||||||||||||||||||
+| {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} |
+| {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} |
+| {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} |
+| ^| (C) ООО «АСП Лабс»           |
+| ^| Тел. +7 (499) 398 00 21      |
+| ^| http://www.asplabs.ru        |
+| ^| Дата редакции: май 2019 года |
+
 
 
 |====
