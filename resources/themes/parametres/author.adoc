@@ -9,9 +9,6 @@
 || {zwsp} |
 || {zwsp} |
 || {zwsp} |
-|| {zwsp} |
-|| {zwsp} |
-|| {zwsp} |
 | .10+^| *{my-title}*  |||||||||||||||||||
 | .10+^| {my-subtitle} |||||||||||||||||||
 | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} | {zwsp} |
