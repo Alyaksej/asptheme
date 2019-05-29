@@ -10,7 +10,7 @@
 :lang: ru
 :front-cover-image: title.pdf
 :parametres_path: resources/themes/parametres
-include::{parametres_path}/parametres.adoc[lines=1..34]
+include::{parametres_path}/parametres.adoc[lines=1..36]
 include::{parametres_path}/author.adoc[]
 
 //Далее идет заполнение документа

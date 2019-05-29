@@ -6,7 +6,7 @@
 :toc:
 :toclevels: 4
 :toc-title: Содержание
-:preface-title!: 
+:preface-title!:
 :table-caption: Таблица
 :figure-caption: Рисунок
 :encoding: utf-8
@@ -20,7 +20,9 @@
 :imagesdir: resources/images
 :source-highlighter: rouge
 :linkattrs:
-//:xrefstyle: short
+:xrefstyle: short
+:section-refsig: Глава
+:chapter-refsig: Глава
 :version-tab: Версия
 :date-tab: Дата
 :author-tab: Автор
