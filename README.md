@@ -117,6 +117,8 @@ Linux:
 Windows:
 `docker run --rm -v %cd%:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf title.adoc main.adoc`
 
+!!!!!*ВАЖНО*!!!!! Избегайте в названиях файлов и путей к ним кирилических букв!!!!!
+
 
 ![](https://github.com/Alyaksej/cetthemes/blob/master/example/img/6.png)
 
