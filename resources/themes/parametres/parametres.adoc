@@ -3,7 +3,7 @@
 :chapter-label: {sp}
 :author: {author_name}
 :email: info@asplabs.ru
-:toc:
+:toc: macro
 :toclevels: 4
 :toc-title: Содержание
 :preface-title!:
